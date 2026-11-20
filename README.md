@@ -1,7 +1,7 @@
 # AppAutomation
 
 [![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)](pyproject.toml)
-[![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Automate Android ride-hailing apps (**Bolt**, **inDrive**) and **Google Maps** on real phones,
 capture fare screenshots for a list of routes, and extract prices, fees, distances and
@@ -351,4 +351,4 @@ Process documents worth reading before a change: [CONTRIBUTING.md](CONTRIBUTING.
 
 ## License
 
-GPL-3.0 – see [LICENSE](LICENSE).
+MIT – see [LICENSE](LICENSE).
