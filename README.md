@@ -1,7 +1,5 @@
 # AppAutomation
 
-[![CI](https://github.com/martyn-williams/AndroidAppAutomation/actions/workflows/ci.yml/badge.svg)](https://github.com/martyn-williams/AndroidAppAutomation/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/martyn-williams/AndroidAppAutomation/actions/workflows/codeql.yml/badge.svg)](https://github.com/martyn-williams/AndroidAppAutomation/actions/workflows/codeql.yml)
 [![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)](pyproject.toml)
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE)
 
