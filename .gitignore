@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+.vs/
+.spyproject/
+
+# Secrets & local configuration -- NEVER commit these
+config.yaml
+credentials.json
+token.json
+*.env
+.env
+
+# Runtime data
+workspace/
+screenshots/
+logs/
+reports/
+routes/*.csv
+!routes/example.csv
+ZZ_*.csv
+report_*.html
+
+# Test / coverage artifacts
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
